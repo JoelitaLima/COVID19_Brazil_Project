@@ -70,7 +70,7 @@ Deaths_moving_avg_7d:                     | Média móvel de 7 dias dividido pel
 Month:                                    | Mês de referência
 Year:                                     | Ano de referência
                                           |
-**VACINAÇÂO**                           |
+**VACINAÇÂO**                             |
 Date:                                     | Data de referência
 Country:                                  | País
 Population:                               | População estimada
@@ -83,7 +83,3 @@ Three_shots:                              | Número acumulado de pessoas com tr�
 Three_shot_perc:                          | número acumulado relativo de pessoas com três doses
 Month:                                    | Mês de referência
 Year:                                     | Ano de referência
-
-
-
-##Dashboard Interativo--> ([link](https://lookerstudio.google.com/u/0/reporting/9d73aa32-1ef2-4341-a830-7a30791bb9de/page/CJlFE))
