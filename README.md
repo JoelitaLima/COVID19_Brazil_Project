@@ -83,4 +83,4 @@ Year:                                     | Ano de referência
 
 
 
---> Aproveite para explorar os dados e entender melhor a evolução da pandemia: ([link](https://lookerstudio.google.com/u/0/reporting/9d73aa32-1ef2-4341-a830-7a30791bb9de/page/CJlFE))
+-> Aproveite para explorar os dados e entender melhor a evolução da pandemia: ([link](https://lookerstudio.google.com/u/0/reporting/9d73aa32-1ef2-4341-a830-7a30791bb9de/page/CJlFE))
