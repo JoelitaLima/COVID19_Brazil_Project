@@ -3,8 +3,7 @@
 
 ---
 
-# **Módulo** | Análise de Dados: COVID-19 Dashboard
-Caderno de **Aula**<br>
+# Análise de Dados: COVID-19 Dashboard
 Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)
 
 ---
@@ -16,7 +15,6 @@ Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)
   <li>Introdução;</li>
   <li>Análise Exploratória de Dados;</li>
   <li>Visualização Interativa de Dados;</li>
-  <li>Storytelling.</li>
 </ol>
 
 
@@ -52,7 +50,7 @@ Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)
 
 > Os dados após tratados, teremos:
 
-**COLUNAS**                                   | **DESCRIÇÂO**
+**COLUNAS**                               | **DESCRIÇÂO**
 ----------------------------------        | ------
 **CASOS E MORTES**
 Date:                                     | Data de Referências
@@ -71,9 +69,11 @@ Month:                                    | Mês de referência
 Year:                                     | Ano de referência
 
 
+
+
 **COLUNAS**                               | **DESCRIÇÂO**
 ----------------------------------        | ------
-**VACINAÇÂO**                             |
+**VACINAÇÂO**                             
 Date:                                     | Data de referência
 Country:                                  | País
 Population:                               | População estimada
@@ -88,4 +88,5 @@ Month:                                    | Mês de referência
 Year:                                     | Ano de referência
 
 
-## Aproveite para explorar os dados e entender melhor a evolução da pandemia --> ([link](https://lookerstudio.google.com/u/0/reporting/9d73aa32-1ef2-4341-a830-7a30791bb9de/page/CJlFE))
+
+##\ Aproveite para explorar os dados e entender melhor a evolução da pandemia --> ([link](https://lookerstudio.google.com/u/0/reporting/9d73aa32-1ef2-4341-a830-7a30791bb9de/page/CJlFE))
